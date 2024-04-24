@@ -1,0 +1,14 @@
+isHexahedral 0
+lx 1000
+ly 1000
+lz 1000
+thetaxy 0
+thetayz 0
+thetaxz 0
+support_SH 0
+diago_lib scalapack
+support_Periodic_Boundary 0
+multi_parallel_strategies 0
+points_path ./POINTS/point50.txt
+venergy_path ./V/V1024.txt
+distribution_path ./Distribution.txt
